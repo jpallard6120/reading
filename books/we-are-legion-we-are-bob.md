@@ -1,7 +1,7 @@
 ---
 title: "We Are Legion (We Are Bob)"
 author: "Dennis E. Taylor"
-status: reading
+status: finished
 rating: "6/10"
 format: novel
 series: true
@@ -12,9 +12,7 @@ date_finished: ""
 
 ## Verdict
 
-At the halfway point: 6/10, fast-food fiction. Readable enough to continue, but shallow, cringey, and ultimately unsatisfying.
-
-The transcript records an intention to finish the book, but does not explicitly confirm completion. The status therefore reflects the last confirmed point.
+6/10, fast-food fiction. Readable enough to finish, but shallow, cringey, and ultimately unsatisfying. The verdict formed at the halfway point and did not change by the end.
 
 ## What worked
 
