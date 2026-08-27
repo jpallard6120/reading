@@ -1,8 +1,8 @@
 ---
 title: "Jurassic Park"
 author: "Michael Crichton"
-status: reading
-rating: ""
+status: finished
+rating: "7/10"
 format: novel
 series: true
 date_finished: ""
@@ -10,30 +10,45 @@ date_finished: ""
 
 # Jurassic Park
 
-## Current impression
+## Verdict
 
-Only a few chapters in. Not completely entranced yet, possibly because the film made such a strong impression in childhood and already occupies the imaginative space. Continuing without hesitation and waiting for the action to begin.
+7/10. Objectively a classic bestseller, but it resonated much less than expected. Prior familiarity with the movie may have flattened the experience, and the worldbuilding never fully supported suspension of disbelief.
 
-## What is affecting the experience
+## What worked
 
-- The movie remains unusually vivid in memory
-- Familiar characters arrive with their actors already attached
-- Ian Malcolm is difficult to imagine without seeing and hearing Jeff Goldblum
-- Knowing the central premise may flatten some of the opening investigation and suspense
+- Readable thriller structure
+- Clearly competent, popular storytelling
+- Enough momentum to remain enjoyable
+
+## What did not
+
+- Knowing the movie likely reduced surprise and discovery
+- Suspension of disbelief never fully clicked
+- Worldbuilding felt thinner than expected
+- Overall appreciation landed well below expectations despite recognizing the book's strengths
 
 ## Reader comments
 
-> I just started Jurassic Park now. Only a few chapters in, and for the moment I'm not completely entranced yet, maybe because of the movie which made such a mark in my memory as a kid. Waiting on the action to really start!
+> It's a classic bestseller, but it didn't resonate that much with me. Maybe because I knew what would happen? I had a bit of trouble with my suspension of disbelief. For some reason, the world building seemed lacking. Totally personal impressions, it's objectively a great book, but my appreciation of it was way under my expectations.
+>
+> 7/10
 
-> Oh I'm not stopping that's for sure, it just feels odd to see Jeff Goldblum in my head whenever Ian Malcolm talks!
+Earlier while reading:
+
+> I just started Jurassic Park now. Only a few chapters in, and for the moment I'm not completely entranced yet, maybe because of the movie which made such a mark in my memory as a kid.
 
 ## Recommendation implications
 
-### Do not conclude yet
+### Recommend more of
 
-- The slow initial engagement may reflect adaptation familiarity rather than the book itself
-- A final judgment should wait until the park and its systemic failures take over the story
+- Familiar-world thrillers only when the speculative premise is strongly grounded
+- Books whose worldbuilding actively earns suspension of disbelief
 
-## Context
+### Do not assume
 
-The film was a major childhood experience, creating unusually strong prior imagery and expectations before reading the novel.
+- Canonical status or bestseller reputation predicts personal enjoyment
+- A successful film adaptation means the original novel will land equally well
+
+### Largest risk in similar books
+
+- Thin characterization or worldbuilding can make an otherwise strong thriller feel less convincing.
