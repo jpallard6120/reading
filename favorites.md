@@ -7,3 +7,5 @@ This is an intentionally selective list of books the reader considers among the 
 - **Slaughterhouse-Five** — Kurt Vonnegut. A very, very important book. No retrospective review or rating recorded yet because it has been too long since the last reading to judge it fairly.
 - **Brave New World** — Aldous Huxley. An all-time top-ten book. No retrospective review or rating recorded yet.
 - **The Hitchhiker's Guide to the Galaxy series** — Douglas Adams. An all-time top-ten reading experience. No retrospective review or rating recorded yet.
+- **1984** — George Orwell. An all-time top-ten book and one of the hard hitters that has remained memorable long after reading. No retrospective review or rating recorded yet.
+- **Fahrenheit 451** — Ray Bradbury. An all-time top-ten book and one of the hard hitters that has remained memorable long after reading. No retrospective review or rating recorded yet.
