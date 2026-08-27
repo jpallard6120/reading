@@ -9,6 +9,7 @@ The prose is the source of truth. Ratings and metadata are useful shortcuts, but
 ```text
 reading/
 ├── README.md
+├── favorites.md
 ├── taste-profile.md
 ├── books/
 │   └── README.md
@@ -26,6 +27,7 @@ reading/
 3. State what the book teaches us about future recommendations.
 4. Update `taste-profile.md` only when a reaction adds meaningful evidence or changes an earlier conclusion.
 5. Keep upcoming books in `recommendations/queue.md`. Move books that are ruled out or postponed indefinitely to `recommendations/rejected-or-deferred.md`.
+6. Keep genuinely all-time books in `favorites.md`; do not infer rankings, reviews, or ratings that the reader has not explicitly given.
 
 ## File conventions
 
