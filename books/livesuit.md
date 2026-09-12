@@ -12,7 +12,7 @@ date_finished: ""
 
 ## Verdict
 
-Unscored. The weakest of the three Captive's War reads so far, but still compelling enough to read in a single sitting. Its biggest success is that an idea that could easily have felt ridiculous or sentimental instead works because the world has earned the reader's trust.
+8/10. The weakest of the three Captive's War reads so far, but still compelling enough to read in a single sitting. Its biggest success is that an idea that could easily have felt ridiculous or sentimental instead works because the world has earned the reader's trust.
 
 ## What worked
 
