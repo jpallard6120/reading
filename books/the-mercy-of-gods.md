@@ -12,7 +12,7 @@ date_finished: ""
 
 ## Verdict
 
-Unscored. A dark, immersive opening to The Captive's War. The invasion and subjugation are brutal, but the worldbuilding is strong enough that even the strangest alien systems feel credible rather than gimmicky.
+9.5/10. A dark, immersive opening to The Captive's War. The invasion and subjugation are brutal, but the worldbuilding is strong enough that even the strangest alien systems feel credible rather than gimmicky.
 
 ## What worked
 
