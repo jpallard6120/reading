@@ -2,7 +2,7 @@
 title: "Livesuit"
 author: "James S. A. Corey"
 status: finished
-rating: "Unscored"
+rating: "8/10"
 format: novella
 series: true
 date_finished: ""
