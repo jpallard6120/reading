@@ -2,7 +2,7 @@
 title: "The Faith of Beasts"
 author: "James S. A. Corey"
 status: finished
-rating: "Unscored"
+rating: "9/10"
 format: novel
 series: true
 date_finished: ""
