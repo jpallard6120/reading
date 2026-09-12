@@ -12,7 +12,7 @@ date_finished: ""
 
 ## Verdict
 
-Unscored. The second Captive's War novel remained dark, but the subjugation felt less shocking because both the characters and the reader had begun adapting to the world. The setting continued to feel intensely immersive and credible despite increasingly strange developments.
+9/10. The second Captive's War novel remained dark, but the subjugation felt less shocking because both the characters and the reader had begun adapting to the world. The setting continued to feel intensely immersive and credible despite increasingly strange developments.
 
 ## What worked
 
