@@ -2,7 +2,7 @@
 title: "The Mercy of Gods"
 author: "James S. A. Corey"
 status: finished
-rating: "Unscored"
+rating: "9.5/10"
 format: novel
 series: true
 date_finished: ""
