@@ -24,6 +24,7 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 - Sensory worldbuilding: environments, bodies, rituals, sounds, smells, discomforts, and physical details that make a setting feel lived rather than diagrammed
 - Cultures with visible history, mythology, institutions, habits, and inherited beliefs that make them feel as though they existed before the plot began
 - Nonhuman minds that develop according to their own rules yet still become emotionally legible and compelling
+- Environments and ecologies that act as causal systems in their own right, shaping society, conflict, survival, and character choices
 
 ## Common failure modes
 
@@ -70,7 +71,8 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 - Complexity is welcome when the reader remains oriented. Convoluted rules are acceptable; unexplained nouns and vocabulary cliffs are not.
 - Suspension of disbelief is a major decision point. Outrageous premises can work when the rules feel concrete and earned; apparently more conventional premises can fail when the worldbuilding or mechanism feels hand-waved.
 - A bizarre or initially cringey premise can work when the execution is rigorous, emotionally credible, and internally consistent.
-- Nonhuman emotional arcs are a recurring positive when they emerge from the entity's own nature rather than making the entity behave like a human in costume. Rocky, the spiders in `Children of Time`, and the Swarm in `The Captive's War` all support this pattern.
+- Nonhuman emotional arcs are a recurring positive when they emerge from the entity's own nature rather than making the entity behave like a human in costume. Rocky, the spiders in `Children of Time`, the Swarm in `The Captive's War`, and the intelligent plants in `Semiosis` all support this pattern.
+- `Semiosis` strengthens the preference for environments with agency. Biology and ecology can provide the same kind of causal depth as technology or politics when organisms have competing incentives, communication, constraints, and consequences that reshape human society.
 - Humor must emerge from character and circumstance. References and memes are not substitutes for wit.
 - A fascinating setting does not automatically rescue an unconvincing central story engine.
 - Repeated-life and time-manipulation stories are a strong fit when they introduce genuinely different mechanics or consequences rather than repeating the same wish-fulfillment beats, but this territory is currently overrepresented in recent reading and should not be prioritized.
@@ -89,6 +91,7 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 
 ## Revision history
 
+- 2026-10-16: Added `Semiosis` as strong evidence for ecology as an active causal system, complex multi-character societies, and genuinely nonhuman intelligence expressed through biology rather than human-like behavior.
 - 2026-09-24: Added causal worldbuilding, consequences of scale, connective tissue between local societies and larger universes, and characters accumulating pressure as core preferences after the first half of `Use of Weapons`.
 - 2026-09-11: Reframed realism as credibility after `The Captive's War`; strengthened sensory and cultural immersion, psychological adaptation, and believable nonhuman minds as positive signals.
 - 2026-08-26: Added experiential immersion as a core preference, distinguishing stories that feel lived from stories that feel watched; used `The Martian` and the Crichton contrast to clarify the pattern.
