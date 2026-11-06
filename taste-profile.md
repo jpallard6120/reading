@@ -25,6 +25,7 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 - Cultures with visible history, mythology, institutions, habits, and inherited beliefs that make them feel as though they existed before the plot began
 - Nonhuman minds that develop according to their own rules yet still become emotionally legible and compelling
 - Environments and ecologies that act as causal systems in their own right, shaping society, conflict, survival, and character choices
+- Depth over breadth: a smaller number of richly developed places, factions, and characters is preferable to a wider universe explored only superficially
 
 ## Common failure modes
 
@@ -42,6 +43,8 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 - Thin, clichéd, or unrelatable characters
 - Characters who feel like functional roles in the premise rather than people inhabiting the world
 - Static protagonists who move through many settings without being meaningfully challenged or changed by them
+- Scope expanding faster than the story can develop its factions, characters, and locations
+- Large casts where important characters become difficult to distinguish or remember
 - Elaborate concepts with weak character development
 - Stories built around a premise that is difficult to believe
 - Dense prose that makes recreational reading feel like work
@@ -73,6 +76,7 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 - A bizarre or initially cringey premise can work when the execution is rigorous, emotionally credible, and internally consistent.
 - Nonhuman emotional arcs are a recurring positive when they emerge from the entity's own nature rather than making the entity behave like a human in costume. Rocky, the spiders in `Children of Time`, the Swarm in `The Captive's War`, and the intelligent plants in `Semiosis` all support this pattern.
 - `Semiosis` strengthens the preference for environments with agency. Biology and ecology can provide the same kind of causal depth as technology or politics when organisms have competing incentives, communication, constraints, and consequences that reshape human society.
+- The full `Semiosis` trilogy strongly favors depth over breadth. Book 1 was a 10/10 and book 2 a 9/10 while staying deeply rooted in Pax and its social/ecological systems; book 3 weakened as factions, characters, and locations multiplied faster than they could be developed. Expansion is welcome when each new element gets enough space to become believable and memorable.
 - Humor must emerge from character and circumstance. References and memes are not substitutes for wit.
 - A fascinating setting does not automatically rescue an unconvincing central story engine.
 - Repeated-life and time-manipulation stories are a strong fit when they introduce genuinely different mechanics or consequences rather than repeating the same wish-fulfillment beats, but this territory is currently overrepresented in recent reading and should not be prioritized.
@@ -91,6 +95,7 @@ This is a working model, not a set of permanent rules. Strong reactions to indiv
 
 ## Revision history
 
+- 2026-11-05: Added final ratings for the `Semiosis` trilogy and strengthened depth-over-breadth as a core preference after `Usurpation` diluted immersion through too many factions, characters, and underexplored settings.
 - 2026-10-16: Added `Semiosis` as strong evidence for ecology as an active causal system, complex multi-character societies, and genuinely nonhuman intelligence expressed through biology rather than human-like behavior.
 - 2026-09-24: Added causal worldbuilding, consequences of scale, connective tissue between local societies and larger universes, and characters accumulating pressure as core preferences after the first half of `Use of Weapons`.
 - 2026-09-11: Reframed realism as credibility after `The Captive's War`; strengthened sensory and cultural immersion, psychological adaptation, and believable nonhuman minds as positive signals.
