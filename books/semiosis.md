@@ -2,7 +2,7 @@
 title: "Semiosis"
 author: "Sue Burke"
 status: finished
-rating: "Excellent"
+rating: "10/10"
 format: novel
 series: true
 date_finished: ""
@@ -12,13 +12,14 @@ date_finished: ""
 
 ## Verdict
 
-Excellent. A deeply built world in which ecology, society, and character choices are tightly connected. The alien environment is not scenery; it is an active system that constrains, negotiates with, and reshapes the human society living inside it.
+10/10. A deeply built world in which ecology, society, and character choices are tightly connected. The world is weird and dangerous, but its rules make sense, and it is discovered through deep characters making consequential choices that feel intelligent and believable.
 
 ## What worked
 
 - Deep, consequential worldbuilding
-- Difficult and unusual environmental constraints that consistently make sense
-- Choices with real consequences inside those constraints
+- A strange and dangerous world that remains internally credible
+- Difficult environmental constraints that consistently shape the story
+- Characters whose choices make sense inside those constraints
 - Multiple deep characters living inside a complex social world
 - Intelligent and resourceful people solving difficult problems together
 - Plant-to-plant communication that felt coherent, imaginative, and earned
@@ -42,6 +43,10 @@ After finishing:
 
 > I loved the plant to plant communication, it was so well done, with each plant having personalities and all the undergroud negotiation and backstabbing. Amazing book!
 
+After completing the trilogy:
+
+> First one is a solid 10/10. The world is weird amd dangerous, you discover it through deep characters that do choices that make actual sense.
+
 ## Recommendation implications
 
 ### Recommend more of
@@ -52,6 +57,7 @@ After finishing:
 - Complex social systems inhabited by resourceful, believable characters
 - Nonhuman intelligence grounded in the organism's own biology and mode of existence
 - Speculative settings where every strange element has practical and social consequences
+- Deep exploration of one richly developed world rather than constant expansion into new locations
 
 ### Avoid assuming
 
