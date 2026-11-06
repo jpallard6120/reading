@@ -4,20 +4,16 @@ The order is intentional. Update it when a book is started, finished, abandoned,
 
 | Priority | Book | Author | Why it may fit | Main risk | Status |
 |---:|---|---|---|---|---|
-| 1 | Delta-v | Daniel Suarez | Near-future engineering, concrete constraints, logistics, and competent problem-solving | May deliver less character and literary depth than the strongest recent hits | Reading |
+| 1 | Delta-v | Daniel Suarez | Near-future engineering, concrete constraints, logistics, and competent problem-solving | May deliver less character and literary depth than the strongest recent hits | Queued |
 | 2 | Pushing Ice | Alastair Reynolds | Large-scale discovery and hard-science ideas | Interpersonal drama may be weak | Deferred |
 
 ## Recently completed
 
-- Semiosis: Excellent. Deep causal worldbuilding, consequential choices, intelligent resourceful characters, and an alien ecology where plant communication, personalities, negotiation, and conflict genuinely shape the human society.
+- Semiosis: 10/10. Weird, dangerous, deeply coherent world; consequential choices; deep characters; ecology and nonhuman intelligence fully integrated into the story.
+- Interference: 9/10. Strong continuation, especially the clash with Earth humans; wished the other-continent discovery had been explored more deeply.
+- Usurpation: weakest of the trilogy. Fine but not great; too many factions, characters, and threads diluted believability and emotional investment. Pax and Nave station both felt underexplored.
 - The Mountain in the Sea: Good, not great. Strong premise and world, but the parallel arcs converged only at the point where the real payoff seemed ready to begin, then the book ended.
 - The Captive's War books read so far: major hit for immersive, sensory, internally credible worldbuilding and believable adaptation to bizarre alien systems.
-- The First Fifteen Lives of Harry August: 9/10. Elevated but transparent prose, believable character development, and fresh speculative mechanics.
-- Replay: 8.5/10. Believable arcs and surprising uses of a repeated-life premise.
-- Jurassic Park: 7/10. Enjoyable classic thriller, but weaker worldbuilding and suspension of disbelief than expected.
-- Sphere: 7/10. Interesting setting and competent thriller, but speculative mechanics felt too magical and characters too clichéd.
-- Dark Matter: 6/10. Enjoyable but felt conceptually recycled after Recursion, with intrusive fragmented formatting.
-- The Forever War: unscored. Page-turning and memorable, but deeply ambivalent due to social extrapolations and the ending.
 
 ## Unresolved reading status
 
